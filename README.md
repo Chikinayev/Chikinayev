@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS and React developing
 - 🌱 I’m currently learning JS and ReactJS
 - 💞️ I’m looking to collaborate on ... internship in order to work in interesting projects
-- 📫 How to reach me ... bagitbek1@mail.ru
+- 📫 How to reach me ... bagitbek1@mail.ru, bagitbek1@gmail.com
 - 
 
 <!---
