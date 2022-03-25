@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chikinayev 
+- 👋 Hi, I’m Bagitbek 
 - 👀 I’m interested in Java and Django developing
 - 🌱 I’m currently learning Java/Spring and Python/Django
 - 💞️ I’m looking to collaborate on ... internship in order to work in interesting projects
