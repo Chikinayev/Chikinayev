@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bagitbek 
-- 👀 I’m interested in Java and Django developing
-- 🌱 I’m currently learning Java/Spring and Python/Django
+- 👀 I’m interested in Java developing
+- 🌱 I’m currently learning Java/Spring.
 - 💞️ I’m looking to collaborate on ... internship in order to work in interesting projects
 - 📫 How to reach me ... bagitbek1@mail.ru, bagitbek1@gmail.com
 - 
